@@ -11,3 +11,9 @@ Aspiring Data Analyst with expertise in Data analytics with Python,SQL, Excel, a
 * Python(Matplotlib,Pandas,Seaborn libraries)
 * Database: MySQL
 * Analysis: Power BI, Excel
+
+## 📫 Connect with Me
+* 📧 Email: tvk2626@gmail.com
+* 💼 LinkedIn: [linkedin.com/in/vamsikrishnatadivaka](https://www.linkedin.com/in/vamsikrishnatadivaka/)
+
+✨ *Check my pinned repositories to explore my projects*
