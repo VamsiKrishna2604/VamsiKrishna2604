@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Vamsi Krishna
+### Business analyst
+Aspiring Data Analyst with expertise in Data analytics with Python,SQL, Excel, and Power BI. Strong in data storytelling and visualization with a focus on actionable insights. Known for effective collaboration, problem-solving, and translating complex datasets into business value.
 
-<!--
-**VamsiKrishna2604/VamsiKrishna2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+* Skilled in Data analysis, Visualization, Database querying, and Reporting
+* Passionate about solving business problems using data and improving decision-making
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+* Python(Matplotlib,Pandas,Seaborn libraries)
+* Database: MySQL
+* Analysis: Power BI, Excel
