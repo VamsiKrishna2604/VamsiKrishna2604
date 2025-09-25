@@ -10,7 +10,7 @@ Aspiring Data Analyst with expertise in Data analytics with Python, SQL, Excel, 
 * Interested in learning new analytics tools and solving business problems with data
 
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
