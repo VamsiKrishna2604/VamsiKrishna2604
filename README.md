@@ -18,7 +18,7 @@ Aspiring Data Analyst with expertise in Data analytics with Python, SQL, Excel, 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🎓 Certifications
-* PCAP - Programming Essentials in Python
+* **PCAP - Programming Essentials in Python**
 
 ## 💡 Value I Bring
 * Turning raw data into actionable insights
