@@ -7,6 +7,8 @@ Aspiring Data Analyst with expertise in Data analytics with Python, SQL, Excel, 
 ## 🧠 About Me
 * Skilled in Data analysis, Visualization, Database querying, and Reporting
 * Passionate about solving business problems using data and improving decision-making
+* Interested in learning new analytics tools and solving business problems with data
+
 
 
 ## Technologies & Tools
