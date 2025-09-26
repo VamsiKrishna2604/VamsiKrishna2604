@@ -26,6 +26,8 @@ Aspiring Data Analyst with expertise in Data analytics with Python, SQL, Excel, 
 * Learning and applying analytics techniques to solve business problems
 * Using data skills to support decision-making
 
+## Github stats
+![Vamsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VamsiKrishna2604&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues&hide_title=true)
 
 ## 📫 Connect with Me
 * 📧 Email: tvk2626@gmail.com
